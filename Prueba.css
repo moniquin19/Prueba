@@ -1,0 +1,42 @@
+body {
+	margin: 0;
+}
+
+header.main{
+
+	background:url('assets/images/hero.jpg')no-repeat;
+	background-size: cover;
+	min-height: 400px;
+}
+
+header.main nav ul.navegador{
+	float: right;
+	margin-top: 10px;
+	padding-top: 15px;
+}    
+
+header.main nav ul.navegador li{
+	display: inline;
+	margin: 0 10px;
+	clear: both;
+}  
+
+
+
+
+/* XS size */
+ @media screen and (max-width: 767px) {
+ 	
+ }
+/* SM size */
+  @media screen and (max-width: 992px){
+ 	
+ }
+/* MD size */
+  @media screen and (max-width: 1200px) {
+ 	
+ }
+/* LG size */
+ @media screen and (min-width: 1200px) {
+ 	
+ }
